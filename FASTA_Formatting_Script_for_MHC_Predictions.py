@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Created on Sun Sep 15 22:21:30 2024
-
-@author: kanmani
-"""
 
 import csv
 import argparse
