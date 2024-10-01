@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-Created on Sat Sep 14 00:14:30 2024
-
 This script splits a FASTA file into smaller parts for processing.
 """
 
