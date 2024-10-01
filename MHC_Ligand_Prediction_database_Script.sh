@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script for predicting MHC ligands and generating a FASTA file for downstream mass spectrometry-based searches.
-# Usage: ./script_name.sh [-r] [-s] <netMHC_folder> <MHC_version> <input_fasta> <binding_rank_cutoff> <allele> <number_of_split_files>
+# Usage: ./script_name.sh [-r] [-s] <netMHC_folder> <MHC_version> <input_fasta> <binding_rank_cutoff> <allele> <length_of_peptides> <number_of_split_files>
 
 # Options:
 # -r  Save raw netMHC output
