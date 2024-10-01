@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-Created on Mon Sep 16 10:29:56 2024
-
-@author: kanmani
-"""
-
 import argparse
 from pathlib import Path
 
