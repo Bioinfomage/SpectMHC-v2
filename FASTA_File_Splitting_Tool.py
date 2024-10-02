@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 This script splits a FASTA file into smaller parts for processing.
+Splits the file into chunks of a specific size (n).
 """
 
 import argparse
